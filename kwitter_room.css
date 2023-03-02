@@ -1,0 +1,10 @@
+body
+{
+ background: linear-gradient(#45EAC0 0%, #45E4EA 100%);
+}
+
+#logout 
+{
+    float: right;
+}
+

@@ -1,0 +1,16 @@
+#logout_2
+{
+    float: right;
+}
+ 
+#send_msg 
+{
+    width: 90%;
+    height: 10%;
+
+}
+
+body
+{
+    background: linear-gradient(#45EAC0 0%, #45E4EA 100%);
+}
